@@ -1,1 +1,2 @@
-My Git Project
+Hello 
+My name is choi in tae
